@@ -35,16 +35,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theuslinor/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dos-santos-b47825268/)
 
-<!-- GithubStats -->
+<!-- GithubStats 
 [![Theuslinor's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuslinor&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark)](https://github.com/theuslinor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark)](https://github.com/theuslinor/github-readme-stats)-->
+
+![Theuslinor github stats](https://github-readme-stats.vercel.app/api?username=theuslinor&show_icons=true&theme=chartreuse-dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theuslinor&theme=chartreuse-dark" alt="mystreak"/>
+<div align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark&layout=compact" alt="Theuslinor Top Langs">
+</div>
+
 
 <!-- Portfolio
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
  -->
 <!-- GIF -->
 <p align="left">
@@ -73,7 +76,8 @@
     <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Spring-Boot" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/spring-icon-256x256-2efvkvky.png">
   </div>
-  
+
+
   <!-- Skills: Libraries 
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
