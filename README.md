@@ -40,10 +40,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark)](https://github.com/theuslinor/github-readme-stats)-->
 
 ![Theuslinor github stats](https://github-readme-stats.vercel.app/api?username=theuslinor&show_icons=true&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark&layout=compact" alt="Theuslinor Top Langs">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theuslinor&theme=chartreuse-dark" alt="mystreak"/>
-<div align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark&layout=compact" alt="Theuslinor Top Langs">
-</div>
+
 
 
 <!-- Portfolio
