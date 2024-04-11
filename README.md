@@ -41,7 +41,7 @@
 
 ![Theuslinor github stats](https://github-readme-stats.vercel.app/api?username=theuslinor&show_icons=true&theme=chartreuse-dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuslinor&theme=chartreuse-dark&layout=compact" alt="Theuslinor Top Langs">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theuslinor&theme=chartreuse-dark" alt="mystreak"/>
+
 
 
 
@@ -64,7 +64,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/javascript_icon_130900.png">
     <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/theuslinor/theuslinor/blob/main/images/mysql_workbench_macos_bigsur_icon_189924.png">
-    <img align="center" alt="AWS Cloud Practitioner" height="40" width="40" src="https://github.com/theuslinor/theuslinor/blob/main/images/aws-app-icon.jpg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
