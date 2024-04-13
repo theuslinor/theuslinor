@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have experience with back-end development using Java Spring Boot 3, Python, MySQL, and I am actively seeking new technologies that can enhance my professional skills. My English skills are currently intermediate, but I am working to improve them to fluency. I had a professional experience that greatly helped me improve my communication, learning abilities, teamwork, and analytical mindset.
+  - 💬 I am 24 years old, currently living in Brazil, and I'm diving into the world of machine learning. I have experience with back-end development using Java Spring Boot 3, Python, MySQL, and I am actively seeking new technologies that can enhance my professional skills, with machine learning being my latest pursuit. My English skills are currently intermediate, but I am working to improve them to fluency. I had a professional experience that greatly helped me improve my communication, learning abilities, teamwork, and analytical mindset.
 
   - 💻 Since child, I have loved playing video games, especially on the computer. This passion led me to explore and tinker with computer components in an attempt to improve gaming performance. This constant quest for knowledge about computers sparked a deep interest in the field of technology. I believe it was this path that led me to software development, and that's why I have so much love for what I do.
   
