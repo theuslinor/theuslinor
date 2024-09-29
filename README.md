@@ -12,7 +12,8 @@
 
   - I’m currently studying Systems Analysis and Development at UNIASSELVI.
 
-  - I work at Compass UOL as a Trainee, and my dream is to one day work as a software developer.
+  - I work at Compass UOL as a trainee, and I am committed to continuously learning from the projects I am involved in."
+
 </p>
 
 <details>
