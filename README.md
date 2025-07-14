@@ -10,16 +10,14 @@
 <p>
   I'm Matheus, and I'm studying back-end development in Brazil.
 
-  - I’m currently studying Systems Analysis and Development at UNIASSELVI.
-
-  - I work at Compass UOL as a trainee, and I am committed to continuously learning from the projects I am involved in."
+  - I’m currently studying Systems Analysis and Development at UNIASSELVI, and Software Engineering at Anhanguera University.
 
 </p>
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil, and I'm diving into the world of machine learning. I have experience with back-end development using Java Spring Boot 3, Python, and MySQL. I am actively seeking new technologies to enhance my professional skills, with machine learning being my latest pursuit. My English skills are currently intermediate, but I am working to improve them to fluency. My professional experiences have greatly helped me improve my communication, learning abilities, teamwork, and analytical mindset.
+  - 💬 I am 25 years old, currently living in Brazil, and I'm diving into the world of machine learning. I have experience with back-end development using Java Spring Boot 3, Python, and MySQL. I am actively seeking new technologies to enhance my professional skills, with machine learning being my latest pursuit. My English skills are currently intermediate, but I am working to improve them to fluency. My professional experiences have greatly helped me improve my communication, learning abilities, teamwork, and analytical mindset.
 
   - 💻 Since childhood, I have loved playing video games, especially on the computer. This passion led me to explore and tinker with computer components to improve gaming performance. My constant quest for knowledge about computers sparked a deep interest in technology, which ultimately led me to software development. That's why I have so much love for what I do.
   
