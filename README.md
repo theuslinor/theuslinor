@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello There</h1></summary>
+    <summary><h1 style="display: inline-block">Olá, viajante</h1></summary>
 </div>
 
 <div align="center">
@@ -8,20 +8,20 @@
 </div>
 
 <p>
-  I'm Matheus, and I'm studying back-end development in Brazil.
+  Me chamo Matheus e sou desenvolvedor FullStack.
 
-  - I’m currently studying Systems Analysis and Development at UNIASSELVI, and Software Engineering at Anhanguera University.
-
+  - Sou formado em <strong>Análise e Desenvolvimento de Sistemas pela UNIASSELVI</strong> e atualmente curso <strong>Engenharia de Software</strong> pela Universidade Anhanguera.
 </p>
 
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 25 years old, currently living in Brazil, and I'm diving into the world of machine learning. I have experience with back-end development using Java Spring Boot 3, Python, and MySQL. I am actively seeking new technologies to enhance my professional skills, with machine learning being my latest pursuit. My English skills are currently intermediate, but I am working to improve them to fluency. My professional experiences have greatly helped me improve my communication, learning abilities, teamwork, and analytical mindset.
+  - 💬 Tenho 26 anos, moro no Brasil e estou focado no desenvolvimento **full stack**. Tenho experiência com desenvolvimento back-end utilizando Java Spring Boot 3, Python e MySQL, além de atuação no front-end com **Angular** e **Tailwind CSS**, desenvolvendo interfaces modernas, responsivas e bem estruturadas. Estou sempre em busca de novas tecnologias para evoluir profissionalmente, com o objetivo de criar aplicações completas, sólidas e funcionais do início ao fim. Meu inglês é nível intermediário e sigo em constante evolução rumo à fluência. Minhas experiências profissionais contribuíram significativamente para o desenvolvimento da comunicação, capacidade de aprendizado, trabalho em equipe e pensamento analítico.
 
-  - 💻 Since childhood, I have loved playing video games, especially on the computer. This passion led me to explore and tinker with computer components to improve gaming performance. My constant quest for knowledge about computers sparked a deep interest in technology, which ultimately led me to software development. That's why I have so much love for what I do.
-  
-  - 🎮 In my free time, I enjoy playing games as a way to unwind after a week of studying. Currently, I've been playing more casual campaign-based games, but my lifelong passion is racing. I enjoy various arcade and racing simulators, which are certainly my favorite game genre.
+
+  - 💻 Desde criança sempre gostei de jogar videogame, principalmente no computador. Essa paixão me levou a mexer em componentes, ajustar desempenho e entender como tudo funcionava por baixo do capô. Essa curiosidade natural por tecnologia acabou me levando ao desenvolvimento de software — coisa antiga, feita na base da curiosidade e persistência. É por isso que gosto tanto do que faço.
+
+  - 🎮 No tempo livre, gosto de jogar para relaxar depois de semanas de estudo. Atualmente tenho jogado mais campanhas casuais, mas minha paixão de longa data sempre foi o automobilismo. Jogos de corrida, sejam arcade ou simuladores, são disparados meu gênero favorito.
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198083029831/)
 
@@ -37,9 +37,9 @@
   <img align="center" src="https://github.com/theuslinor/theuslinor/blob/main/images/darth%20vader.gif" alt="Darth Vader" width="300px">
 </p>
 
-## 🔥 Skills
+## 🔥 Habilidades
 <div style="flex-basis: 48%;">
-  <h3>Programming Languages</h3>
+  <h3>Linguagens de Programação</h3>
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/theuslinor/theuslinor/blob/main/images/java_original_logo_icon_146458.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -49,9 +49,9 @@
 </div>
   
 <div style="flex-basis: 48%;">
-  <h3>Tools & Frameworks</h3>
-  <img align="center" alt="Intellij" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/intellij_macos_bigsur_icon_190061.png">
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Spring-Boot" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/spring-icon-256x256-2efvkvky.png">
+  <h3>Ferramentas & Frameworks</h3>
+  <img align="center" alt="IntelliJ IDEA" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/intellij_macos_bigsur_icon_190061.png">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Spring Boot" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/spring-icon-256x256-2efvkvky.png">
 </div>
