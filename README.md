@@ -45,6 +45,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/javascript_icon_130900.png">
+  <img align="center" alt="Angular" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/angularjs.png">
+  <img align="center" alt="Tailwind CSS" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/Tailwind_CSS_Logo.svg.png">
   <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/theuslinor/theuslinor/blob/main/images/mysql_workbench_macos_bigsur_icon_189924.png">
 </div>
   
@@ -55,3 +57,4 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="30" src="https://github.com/theuslinor/theuslinor/blob/main/images/spring-icon-256x256-2efvkvky.png">
 </div>
+
